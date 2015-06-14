@@ -1,0 +1,6 @@
+name: Simple Page
+type: module
+description: A simple module to create a custom page.
+core: 8.x
+package: Custom Modules
+
