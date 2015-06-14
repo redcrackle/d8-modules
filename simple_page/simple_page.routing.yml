@@ -1,0 +1,7 @@
+simple_page.basic:
+    path: 'simple-page'
+    defaults:
+        _controller: \Drupal\simple_page\Controller\SimplePageController::basicPage
+    requirements:
+        _access: 'TRUE'
+
