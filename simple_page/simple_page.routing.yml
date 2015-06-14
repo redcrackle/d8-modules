@@ -2,6 +2,7 @@ simple_page.basic:
     path: 'simple-page'
     defaults:
         _controller: \Drupal\simple_page\Controller\SimplePageController::basicPage
+        _title: Hello Simple Page
     requirements:
         _access: 'TRUE'
 
