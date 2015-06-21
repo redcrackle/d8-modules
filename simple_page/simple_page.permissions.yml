@@ -1,0 +1,5 @@
+view simple_page pages:
+    title: view simple_page module pages
+    description: A description for the permission.
+    restrict access: false
+
