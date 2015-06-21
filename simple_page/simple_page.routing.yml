@@ -4,5 +4,5 @@ simple_page.basic:
         _controller: \Drupal\simple_page\Controller\SimplePageController::basicPage
         _title: Hello Simple Page
     requirements:
-        _access: 'TRUE'
+        _permission: 'view simple_page pages'
 
