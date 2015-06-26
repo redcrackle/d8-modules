@@ -1,0 +1,6 @@
+name: Simple Form
+description: Create a simple form in Drupal 8.
+type: module
+core: 8.x
+package: Custom Modules
+
