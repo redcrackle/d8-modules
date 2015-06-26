@@ -1,0 +1,6 @@
+simple_page.basic:
+    route_name: simple_page.basic
+    title: Simple Page
+    description: A menu link to our Simple Page.
+    weight: 10
+
