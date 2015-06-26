@@ -1,0 +1,8 @@
+simple_form.basic:
+    path: 'simple-form'
+    defaults:
+        _form: '\Drupal\simple_form\Form\BasicForm'
+        _title: 'Our Simple Form'
+    requirements:
+        _access: 'TRUE'
+
